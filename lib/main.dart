@@ -60,6 +60,6 @@ class _WikiDataWidgetState extends State<WikiDataFinder> {
 //    final count = counter.countWords(data);
 //    setState(() {
 //      _message = '';
-//    });
+    });
   }
 }
